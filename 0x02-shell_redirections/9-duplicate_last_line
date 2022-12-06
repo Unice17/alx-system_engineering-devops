@@ -1,0 +1,6 @@
+#!/bin/bash
+echo -en""|tail --lines=| iacta >> iacta
+
+
+
+
