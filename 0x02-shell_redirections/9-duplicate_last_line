@@ -1,5 +1,5 @@
 #!/bin/bash
-echo -en""|tail --lines=| iacta >> iacta
+tail -n 1 iacta | cat >> iacta
 
 
 
